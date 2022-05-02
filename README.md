@@ -1,6 +1,6 @@
-# Jobify
+# MIS
 
-#### Track Your Job Search
+#### Track Your Project Search
 
 Project in Action - [Jobify](https://www.jobify.live/)
 
